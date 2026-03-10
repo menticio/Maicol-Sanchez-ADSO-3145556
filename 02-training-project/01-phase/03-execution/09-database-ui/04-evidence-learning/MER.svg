@@ -1,0 +1,511 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1289pt" height="1108pt" viewBox="0.00 0.00 1289.00 1108.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1104)">
+<title>MER</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-1104 1285.16,-1104 1285.16,4 -4,4"/>
+<!-- Usuario -->
+<g id="node1" class="node">
+<title>Usuario</title>
+<polygon fill="none" stroke="black" points="64.24,-632 0,-632 0,-596 64.24,-596 64.24,-632"/>
+<text xml:space="preserve" text-anchor="middle" x="32.12" y="-609.8" font-family="Arial" font-size="14.00">Usuario</text>
+</g>
+<!-- id_usuario -->
+<g id="node12" class="node">
+<title>id_usuario</title>
+<ellipse fill="none" stroke="black" cx="230.72" cy="-933" rx="55.6" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-928.8" font-family="Arial" font-size="14.00">id_usuario</text>
+</g>
+<!-- Usuario&#45;&#45;id_usuario -->
+<g id="edge1" class="edge">
+<title>Usuario--id_usuario</title>
+<path fill="none" stroke="black" d="M33.1,-632.26C33.77,-676.56 39.77,-792.2 82.24,-876 99.43,-909.91 141.19,-923.81 175.9,-929.43"/>
+</g>
+<!-- nombre -->
+<g id="node13" class="node">
+<title>nombre</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-866" rx="43.78" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-861.8" font-family="Arial" font-size="14.00">nombre</text>
+</g>
+<!-- Usuario&#45;&#45;nombre -->
+<g id="edge2" class="edge">
+<title>Usuario--nombre</title>
+<path fill="none" stroke="black" d="M33.5,-632.34C35.49,-673.39 46.95,-771.79 110.35,-806 183.88,-845.67 775.11,-861.45 941.07,-865.12"/>
+</g>
+<!-- apellido -->
+<g id="node14" class="node">
+<title>apellido</title>
+<ellipse fill="none" stroke="black" cx="230.72" cy="-749" rx="44.33" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-744.8" font-family="Arial" font-size="14.00">apellido</text>
+</g>
+<!-- Usuario&#45;&#45;apellido -->
+<g id="edge3" class="edge">
+<title>Usuario--apellido</title>
+<path fill="none" stroke="black" d="M41.13,-632.47C52.73,-656.93 76.56,-699.56 110.35,-722 132.83,-736.93 162.38,-743.69 186.46,-746.71"/>
+</g>
+<!-- email -->
+<g id="node15" class="node">
+<title>email</title>
+<ellipse fill="none" stroke="black" cx="230.72" cy="-695" rx="34.11" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-690.8" font-family="Arial" font-size="14.00">email</text>
+</g>
+<!-- Usuario&#45;&#45;email -->
+<g id="edge4" class="edge">
+<title>Usuario--email</title>
+<path fill="none" stroke="black" d="M54.38,-632.28C69.18,-644.11 89.85,-658.94 110.35,-668 138.24,-680.33 172.37,-687.32 196.98,-691.08"/>
+</g>
+<!-- telefono -->
+<g id="node16" class="node">
+<title>telefono</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-812" rx="45.4" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-807.8" font-family="Arial" font-size="14.00">telefono</text>
+</g>
+<!-- Usuario&#45;&#45;telefono -->
+<g id="edge5" class="edge">
+<title>Usuario--telefono</title>
+<path fill="none" stroke="black" d="M35.69,-632.31C41.66,-667.23 60.04,-742.78 110.35,-776 179.77,-821.83 770.63,-815.58 939.4,-812.83"/>
+</g>
+<!-- password_hash -->
+<g id="node17" class="node">
+<title>password_hash</title>
+<ellipse fill="none" stroke="black" cx="230.72" cy="-641" rx="78.68" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-636.8" font-family="Arial" font-size="14.00">password_hash</text>
+</g>
+<!-- Usuario&#45;&#45;password_hash -->
+<g id="edge6" class="edge">
+<title>Usuario--password_hash</title>
+<path fill="none" stroke="black" d="M64.71,-618.34C90.98,-621.95 129.28,-627.21 162.37,-631.75"/>
+</g>
+<!-- estado_cuenta -->
+<g id="node18" class="node">
+<title>estado_cuenta</title>
+<ellipse fill="none" stroke="black" cx="230.72" cy="-587" rx="74.4" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-582.8" font-family="Arial" font-size="14.00">estado_cuenta</text>
+</g>
+<!-- Usuario&#45;&#45;estado_cuenta -->
+<g id="edge7" class="edge">
+<title>Usuario--estado_cuenta</title>
+<path fill="none" stroke="black" d="M64.71,-609.66C91.74,-605.95 131.5,-600.49 165.23,-595.86"/>
+</g>
+<!-- fecha_registro -->
+<g id="node19" class="node">
+<title>fecha_registro</title>
+<ellipse fill="none" stroke="black" cx="230.72" cy="-533" rx="72.23" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-528.8" font-family="Arial" font-size="14.00">fecha_registro</text>
+</g>
+<!-- Usuario&#45;&#45;fecha_registro -->
+<g id="edge8" class="edge">
+<title>Usuario--fecha_registro</title>
+<path fill="none" stroke="black" d="M54.38,-595.72C69.18,-583.89 89.85,-569.06 110.35,-560 128.33,-552.05 148.9,-546.32 167.84,-542.25"/>
+</g>
+<!-- tiene_perfil -->
+<g id="node33" class="node">
+<title>tiene_perfil</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="230.72,-497 148.3,-479 230.72,-461 313.14,-479 230.72,-497"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-474.8" font-family="Arial" font-size="14.00">tiene_perfil</text>
+</g>
+<!-- Usuario&#45;&#45;tiene_perfil -->
+<g id="edge24" class="edge">
+<title>Usuario--tiene_perfil</title>
+<path fill="none" stroke="black" d="M41.13,-595.53C52.73,-571.07 76.56,-528.44 110.35,-506 127.7,-494.48 149.26,-487.82 169.26,-484"/>
+<text xml:space="preserve" text-anchor="middle" x="87.3" y="-533.97" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- registra_contacto -->
+<g id="node34" class="node">
+<title>registra_contacto</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="230.72,-897 110.35,-879 230.72,-861 351.09,-879 230.72,-897"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-874.8" font-family="Arial" font-size="14.00">registra_contacto</text>
+</g>
+<!-- Usuario&#45;&#45;registra_contacto -->
+<g id="edge26" class="edge">
+<title>Usuario--registra_contacto</title>
+<path fill="none" stroke="black" d="M34.46,-632.29C38.45,-681.75 51.93,-816.51 82.24,-847 96.46,-861.31 115.47,-869.9 135.1,-874.93"/>
+<text xml:space="preserve" text-anchor="middle" x="87.3" y="-859.1" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- activa_alerta -->
+<g id="node35" class="node">
+<title>activa_alerta</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="230.72,-435 137.68,-417 230.72,-399 323.76,-417 230.72,-435"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-412.8" font-family="Arial" font-size="14.00">activa_alerta</text>
+</g>
+<!-- Usuario&#45;&#45;activa_alerta -->
+<g id="edge28" class="edge">
+<title>Usuario--activa_alerta</title>
+<path fill="none" stroke="black" d="M36.39,-595.64C43.44,-561.66 63.4,-489.08 110.35,-452 128.32,-437.81 151.87,-429.37 173.3,-424.35"/>
+<text xml:space="preserve" text-anchor="middle" x="87.3" y="-484.06" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- crea_publicacion -->
+<g id="node39" class="node">
+<title>crea_publicacion</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="230.72,-365 112.62,-347 230.72,-329 348.82,-347 230.72,-365"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-342.8" font-family="Arial" font-size="14.00">crea_publicacion</text>
+</g>
+<!-- Usuario&#45;&#45;crea_publicacion -->
+<g id="edge36" class="edge">
+<title>Usuario--crea_publicacion</title>
+<path fill="none" stroke="black" d="M33.81,-595.81C36.45,-553.18 49.16,-446.21 110.35,-390 128.28,-373.53 152.97,-363.27 175.24,-356.92"/>
+<text xml:space="preserve" text-anchor="middle" x="87.3" y="-422.96" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- escribe_comentario -->
+<g id="node41" class="node">
+<title>escribe_comentario</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="503.88,-144 369.09,-126 503.88,-108 638.66,-126 503.88,-144"/>
+<text xml:space="preserve" text-anchor="middle" x="503.88" y="-121.8" font-family="Arial" font-size="14.00">escribe_comentario</text>
+</g>
+<!-- Usuario&#45;&#45;escribe_comentario -->
+<g id="edge40" class="edge">
+<title>Usuario--escribe_comentario</title>
+<path fill="none" stroke="black" d="M32.45,-595.79C31.61,-545.2 36.22,-401.31 110.35,-320 162.65,-262.63 381.37,-173.31 467.65,-139.54"/>
+<text xml:space="preserve" text-anchor="middle" x="87.3" y="-361.7" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- tiene_rol -->
+<g id="node42" class="node">
+<title>tiene_rol</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="230.72,-162 162.73,-144 230.72,-126 298.72,-144 230.72,-162"/>
+<text xml:space="preserve" text-anchor="middle" x="230.72" y="-139.8" font-family="Arial" font-size="14.00">tiene_rol</text>
+</g>
+<!-- Usuario&#45;&#45;tiene_rol -->
+<g id="edge42" class="edge">
+<title>Usuario--tiene_rol</title>
+<path fill="none" stroke="black" d="M33.37,-595.65C34.59,-527.72 41.74,-291.4 82.24,-230.2 109.16,-189.52 162.38,-165.52 196.99,-153.57"/>
+<text xml:space="preserve" text-anchor="middle" x="87.3" y="-234.4" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- Perfil_Seguridad -->
+<g id="node2" class="node">
+<title>Perfil_Seguridad</title>
+<polygon fill="none" stroke="black" points="793.68,-695 674.17,-695 674.17,-659 793.68,-659 793.68,-695"/>
+<text xml:space="preserve" text-anchor="middle" x="733.92" y="-672.8" font-family="Arial" font-size="14.00">Perfil_Seguridad</text>
+</g>
+<!-- pin_activacion -->
+<g id="node20" class="node">
+<title>pin_activacion</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-758" rx="72.24" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-753.8" font-family="Arial" font-size="14.00">pin_activacion</text>
+</g>
+<!-- Perfil_Seguridad&#45;&#45;pin_activacion -->
+<g id="edge9" class="edge">
+<title>Perfil_Seguridad--pin_activacion</title>
+<path fill="none" stroke="black" d="M771.37,-695.46C795.31,-706.98 827.58,-721.4 857.3,-731 878.85,-737.96 903.04,-743.62 924.49,-747.92"/>
+</g>
+<!-- palabra_clave -->
+<g id="node21" class="node">
+<title>palabra_clave</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-704" rx="71.17" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-699.8" font-family="Arial" font-size="14.00">palabra_clave</text>
+</g>
+<!-- Perfil_Seguridad&#45;&#45;palabra_clave -->
+<g id="edge10" class="edge">
+<title>Perfil_Seguridad--palabra_clave</title>
+<path fill="none" stroke="black" d="M794.01,-683.4C831.74,-687.48 880.67,-692.78 919.46,-696.98"/>
+</g>
+<!-- nivel_riesgo -->
+<g id="node22" class="node">
+<title>nivel_riesgo</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-650" rx="62.57" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-645.8" font-family="Arial" font-size="14.00">nivel_riesgo</text>
+</g>
+<!-- Perfil_Seguridad&#45;&#45;nivel_riesgo -->
+<g id="edge11" class="edge">
+<title>Perfil_Seguridad--nivel_riesgo</title>
+<path fill="none" stroke="black" d="M794.01,-670.6C833.9,-666.28 886.31,-660.61 926.02,-656.31"/>
+</g>
+<!-- Contacto_Emergencia -->
+<g id="node3" class="node">
+<title>Contacto_Emergencia</title>
+<polygon fill="none" stroke="black" points="811.19,-938 656.66,-938 656.66,-902 811.19,-902 811.19,-938"/>
+<text xml:space="preserve" text-anchor="middle" x="733.92" y="-915.8" font-family="Arial" font-size="14.00">Contacto_Emergencia</text>
+</g>
+<!-- Contacto_Emergencia&#45;&#45;nombre -->
+<g id="edge19" class="edge">
+<title>Contacto_Emergencia--nombre</title>
+<path fill="none" stroke="black" d="M811.61,-902.99C826.75,-899.65 842.52,-896.2 857.3,-893 886.92,-886.58 920.46,-879.46 945.62,-874.14"/>
+</g>
+<!-- Contacto_Emergencia&#45;&#45;telefono -->
+<g id="edge20" class="edge">
+<title>Contacto_Emergencia--telefono</title>
+<path fill="none" stroke="black" d="M756.91,-901.71C780.34,-883.16 819.24,-854.96 857.3,-839 884.1,-827.76 916.13,-820.99 941.31,-817.04"/>
+</g>
+<!-- id_contacto -->
+<g id="node29" class="node">
+<title>id_contacto</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-920" rx="60.43" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-915.8" font-family="Arial" font-size="14.00">id_contacto</text>
+</g>
+<!-- Contacto_Emergencia&#45;&#45;id_contacto -->
+<g id="edge18" class="edge">
+<title>Contacto_Emergencia--id_contacto</title>
+<path fill="none" stroke="black" d="M811.43,-920C847.79,-920 890.6,-920 924.53,-920"/>
+</g>
+<!-- parentesco -->
+<g id="node30" class="node">
+<title>parentesco</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-1082" rx="58.82" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-1077.8" font-family="Arial" font-size="14.00">parentesco</text>
+</g>
+<!-- Contacto_Emergencia&#45;&#45;parentesco -->
+<g id="edge21" class="edge">
+<title>Contacto_Emergencia--parentesco</title>
+<path fill="none" stroke="black" d="M745.93,-938.18C764.81,-967.69 806.29,-1025.66 857.3,-1055 878.59,-1067.25 904.76,-1073.96 927.81,-1077.63"/>
+</g>
+<!-- prioridad -->
+<g id="node31" class="node">
+<title>prioridad</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-1028" rx="48.61" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-1023.8" font-family="Arial" font-size="14.00">prioridad</text>
+</g>
+<!-- Contacto_Emergencia&#45;&#45;prioridad -->
+<g id="edge22" class="edge">
+<title>Contacto_Emergencia--prioridad</title>
+<path fill="none" stroke="black" d="M756.91,-938.29C780.34,-956.84 819.24,-985.04 857.3,-1001 883.17,-1011.85 913.9,-1018.53 938.65,-1022.54"/>
+</g>
+<!-- activo -->
+<g id="node32" class="node">
+<title>activo</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-974" rx="36.26" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-969.8" font-family="Arial" font-size="14.00">activo</text>
+</g>
+<!-- Contacto_Emergencia&#45;&#45;activo -->
+<g id="edge23" class="edge">
+<title>Contacto_Emergencia--activo</title>
+<path fill="none" stroke="black" d="M811.61,-937.01C826.75,-940.35 842.52,-943.8 857.3,-947 889.23,-953.92 925.72,-961.66 951.36,-967.08"/>
+</g>
+<!-- Alerta -->
+<g id="node4" class="node">
+<title>Alerta</title>
+<polygon fill="none" stroke="black" points="760.92,-409 706.92,-409 706.92,-373 760.92,-373 760.92,-409"/>
+<text xml:space="preserve" text-anchor="middle" x="733.92" y="-386.8" font-family="Arial" font-size="14.00">Alerta</text>
+</g>
+<!-- id_alerta -->
+<g id="node23" class="node">
+<title>id_alerta</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-272" rx="48.08" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-267.8" font-family="Arial" font-size="14.00">id_alerta</text>
+</g>
+<!-- Alerta&#45;&#45;id_alerta -->
+<g id="edge12" class="edge">
+<title>Alerta--id_alerta</title>
+<path fill="none" stroke="black" d="M753.55,-372.79C776.18,-351.74 816.41,-317.61 857.3,-299 882.83,-287.38 913.56,-280.67 938.39,-276.85"/>
+</g>
+<!-- tipo_alerta -->
+<g id="node24" class="node">
+<title>tipo_alerta</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-218" rx="56.13" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-213.8" font-family="Arial" font-size="14.00">tipo_alerta</text>
+</g>
+<!-- Alerta&#45;&#45;tipo_alerta -->
+<g id="edge13" class="edge">
+<title>Alerta--tipo_alerta</title>
+<path fill="none" stroke="black" d="M744.68,-372.85C762.56,-341.44 803.73,-277.21 857.3,-245 879.02,-231.94 906.17,-225.14 929.78,-221.63"/>
+</g>
+<!-- estado_alerta -->
+<g id="node25" class="node">
+<title>estado_alerta</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-164" rx="69.56" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-159.8" font-family="Arial" font-size="14.00">estado_alerta</text>
+</g>
+<!-- Alerta&#45;&#45;estado_alerta -->
+<g id="edge14" class="edge">
+<title>Alerta--estado_alerta</title>
+<path fill="none" stroke="black" d="M746.33,-372.53C761.27,-348.33 788.26,-304.53 811.19,-267 831.78,-233.28 825.08,-213.88 857.3,-191 874.66,-178.67 896.5,-171.76 917.15,-167.96"/>
+</g>
+<!-- canal_activacion -->
+<g id="node26" class="node">
+<title>canal_activacion</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-596" rx="82.44" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-591.8" font-family="Arial" font-size="14.00">canal_activacion</text>
+</g>
+<!-- Alerta&#45;&#45;canal_activacion -->
+<g id="edge15" class="edge">
+<title>Alerta--canal_activacion</title>
+<path fill="none" stroke="black" d="M741.98,-409.3C757.12,-445.94 796.34,-528.27 857.3,-569 872.29,-579.02 890.31,-585.41 908,-589.46"/>
+</g>
+<!-- fecha_activacion -->
+<g id="node27" class="node">
+<title>fecha_activacion</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-542" rx="82.97" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-537.8" font-family="Arial" font-size="14.00">fecha_activacion</text>
+</g>
+<!-- Alerta&#45;&#45;fecha_activacion -->
+<g id="edge16" class="edge">
+<title>Alerta--fecha_activacion</title>
+<path fill="none" stroke="black" d="M747.58,-409.47C767.53,-437.05 809.01,-488.57 857.3,-515 873.51,-523.87 892.36,-529.83 910.49,-533.83"/>
+</g>
+<!-- fecha_cierre -->
+<g id="node28" class="node">
+<title>fecha_cierre</title>
+<ellipse fill="none" stroke="black" cx="985.25" cy="-488" rx="64.18" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-483.8" font-family="Arial" font-size="14.00">fecha_cierre</text>
+</g>
+<!-- Alerta&#45;&#45;fecha_cierre -->
+<g id="edge17" class="edge">
+<title>Alerta--fecha_cierre</title>
+<path fill="none" stroke="black" d="M761.42,-409.39C785.43,-425.25 822.31,-447.65 857.3,-461 879.61,-469.52 905.22,-475.61 927.56,-479.83"/>
+</g>
+<!-- genera_evidencia -->
+<g id="node36" class="node">
+<title>genera_evidencia</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="985.25,-452 861.82,-434 985.25,-416 1108.69,-434 985.25,-452"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-429.8" font-family="Arial" font-size="14.00">genera_evidencia</text>
+</g>
+<!-- Alerta&#45;&#45;genera_evidencia -->
+<g id="edge30" class="edge">
+<title>Alerta--genera_evidencia</title>
+<path fill="none" stroke="black" d="M761.14,-395.52C800.27,-402.27 874.94,-415.15 927.07,-424.14"/>
+<text xml:space="preserve" text-anchor="middle" x="834.24" y="-412.85" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- registra_ubicacion -->
+<g id="node37" class="node">
+<title>registra_ubicacion</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="985.25,-398 858.81,-380 985.25,-362 1111.7,-380 985.25,-398"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-375.8" font-family="Arial" font-size="14.00">registra_ubicacion</text>
+</g>
+<!-- Alerta&#45;&#45;registra_ubicacion -->
+<g id="edge32" class="edge">
+<title>Alerta--registra_ubicacion</title>
+<path fill="none" stroke="black" d="M761.14,-389.84C790.77,-388.54 840.77,-386.33 885.94,-384.34"/>
+<text xml:space="preserve" text-anchor="middle" x="834.24" y="-391.01" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- envia_notificacion -->
+<g id="node38" class="node">
+<title>envia_notificacion</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="985.25,-344 861.08,-326 985.25,-308 1109.43,-326 985.25,-344"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-321.8" font-family="Arial" font-size="14.00">envia_notificacion</text>
+</g>
+<!-- Alerta&#45;&#45;envia_notificacion -->
+<g id="edge34" class="edge">
+<title>Alerta--envia_notificacion</title>
+<path fill="none" stroke="black" d="M760.98,-382.15C785.62,-373.96 823.72,-361.76 857.3,-353 880.95,-346.83 907.36,-341.03 929.94,-336.41"/>
+<text xml:space="preserve" text-anchor="middle" x="834.24" y="-364.68" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- Ubicacion_Alerta -->
+<g id="node5" class="node">
+<title>Ubicacion_Alerta</title>
+<polygon fill="none" stroke="black" points="1281.16,-398 1159.32,-398 1159.32,-362 1281.16,-362 1281.16,-398"/>
+<text xml:space="preserve" text-anchor="middle" x="1220.24" y="-375.8" font-family="Arial" font-size="14.00">Ubicacion_Alerta</text>
+</g>
+<!-- Evidencia -->
+<g id="node6" class="node">
+<title>Evidencia</title>
+<polygon fill="none" stroke="black" points="1258.59,-452 1181.89,-452 1181.89,-416 1258.59,-416 1258.59,-452"/>
+<text xml:space="preserve" text-anchor="middle" x="1220.24" y="-429.8" font-family="Arial" font-size="14.00">Evidencia</text>
+</g>
+<!-- Notificacion -->
+<g id="node7" class="node">
+<title>Notificacion</title>
+<polygon fill="none" stroke="black" points="1264.42,-344 1176.06,-344 1176.06,-308 1264.42,-308 1264.42,-344"/>
+<text xml:space="preserve" text-anchor="middle" x="1220.24" y="-321.8" font-family="Arial" font-size="14.00">Notificacion</text>
+</g>
+<!-- Publicacion -->
+<g id="node8" class="node">
+<title>Publicacion</title>
+<polygon fill="none" stroke="black" points="777.72,-258 690.13,-258 690.13,-222 777.72,-222 777.72,-258"/>
+<text xml:space="preserve" text-anchor="middle" x="733.92" y="-235.8" font-family="Arial" font-size="14.00">Publicacion</text>
+</g>
+<!-- recibe_comentario -->
+<g id="node40" class="node">
+<title>recibe_comentario</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="985.25,-128 857.3,-110 985.25,-92 1113.21,-110 985.25,-128"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-105.8" font-family="Arial" font-size="14.00">recibe_comentario</text>
+</g>
+<!-- Publicacion&#45;&#45;recibe_comentario -->
+<g id="edge38" class="edge">
+<title>Publicacion--recibe_comentario</title>
+<path fill="none" stroke="black" d="M745.33,-221.74C760.39,-197.16 790.73,-154.11 829.19,-133.2 846.17,-123.97 865.65,-118.07 884.95,-114.37"/>
+<text xml:space="preserve" text-anchor="middle" x="834.24" y="-137.4" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- Comentario -->
+<g id="node9" class="node">
+<title>Comentario</title>
+<polygon fill="none" stroke="black" points="1264.42,-106 1176.06,-106 1176.06,-70 1264.42,-70 1264.42,-106"/>
+<text xml:space="preserve" text-anchor="middle" x="1220.24" y="-83.8" font-family="Arial" font-size="14.00">Comentario</text>
+</g>
+<!-- Rol -->
+<g id="node10" class="node">
+<title>Rol</title>
+<polygon fill="none" stroke="black" points="760.92,-36 706.92,-36 706.92,0 760.92,0 760.92,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="733.92" y="-13.8" font-family="Arial" font-size="14.00">Rol</text>
+</g>
+<!-- tiene_permiso -->
+<g id="node43" class="node">
+<title>tiene_permiso</title>
+<polygon fill="lightgrey" stroke="lightgrey" points="985.25,-36 883.86,-18 985.25,0 1086.65,-18 985.25,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="985.25" y="-13.8" font-family="Arial" font-size="14.00">tiene_permiso</text>
+</g>
+<!-- Rol&#45;&#45;tiene_permiso -->
+<g id="edge44" class="edge">
+<title>Rol--tiene_permiso</title>
+<path fill="none" stroke="black" d="M761.14,-18C789.71,-18 837.21,-18 881.07,-18"/>
+<text xml:space="preserve" text-anchor="middle" x="834.24" y="-22.2" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- Permiso -->
+<g id="node11" class="node">
+<title>Permiso</title>
+<polygon fill="none" stroke="black" points="1253.91,-36 1186.57,-36 1186.57,0 1253.91,0 1253.91,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="1220.24" y="-13.8" font-family="Arial" font-size="14.00">Permiso</text>
+</g>
+<!-- tiene_perfil&#45;&#45;Perfil_Seguridad -->
+<g id="edge25" class="edge">
+<title>tiene_perfil--Perfil_Seguridad</title>
+<path fill="none" stroke="black" d="M277.65,-487.17C300.09,-491.72 327.3,-498.07 351.09,-506 483.39,-550.1 632.02,-624.24 698.07,-658.55"/>
+<text xml:space="preserve" text-anchor="middle" x="503.88" y="-630.14" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- registra_contacto&#45;&#45;Contacto_Emergencia -->
+<g id="edge27" class="edge">
+<title>registra_contacto--Contacto_Emergencia</title>
+<path fill="none" stroke="black" d="M310.86,-885.47C405.48,-893.21 562.74,-906.08 656.25,-913.73"/>
+<text xml:space="preserve" text-anchor="middle" x="503.88" y="-916.36" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- activa_alerta&#45;&#45;Alerta -->
+<g id="edge29" class="edge">
+<title>activa_alerta--Alerta</title>
+<path fill="none" stroke="black" d="M306.21,-413.14C420.2,-407.22 632.48,-396.21 706.58,-392.37"/>
+<text xml:space="preserve" text-anchor="middle" x="503.88" y="-413.52" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- genera_evidencia&#45;&#45;Evidencia -->
+<g id="edge31" class="edge">
+<title>genera_evidencia--Evidencia</title>
+<path fill="none" stroke="black" d="M1111.95,-434C1137.32,-434 1162.09,-434 1181.43,-434"/>
+<text xml:space="preserve" text-anchor="middle" x="1136.27" y="-438.2" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- registra_ubicacion&#45;&#45;Ubicacion_Alerta -->
+<g id="edge33" class="edge">
+<title>registra_ubicacion--Ubicacion_Alerta</title>
+<path fill="none" stroke="black" d="M1115.01,-380C1130.27,-380 1145.25,-380 1158.88,-380"/>
+<text xml:space="preserve" text-anchor="middle" x="1136.27" y="-384.2" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- envia_notificacion&#45;&#45;Notificacion -->
+<g id="edge35" class="edge">
+<title>envia_notificacion--Notificacion</title>
+<path fill="none" stroke="black" d="M1112.63,-326C1135.31,-326 1157.49,-326 1175.69,-326"/>
+<text xml:space="preserve" text-anchor="middle" x="1136.27" y="-330.2" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- crea_publicacion&#45;&#45;Publicacion -->
+<g id="edge37" class="edge">
+<title>crea_publicacion--Publicacion</title>
+<path fill="none" stroke="black" d="M281.61,-336.35C379.91,-315.36 597.11,-268.99 689.72,-249.22"/>
+<text xml:space="preserve" text-anchor="middle" x="503.88" y="-319.58" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- recibe_comentario&#45;&#45;Comentario -->
+<g id="edge39" class="edge">
+<title>recibe_comentario--Comentario</title>
+<path fill="none" stroke="black" d="M1064.16,-102.64C1101.33,-99.13 1144.41,-95.07 1175.72,-92.11"/>
+<text xml:space="preserve" text-anchor="middle" x="1136.27" y="-99.94" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- escribe_comentario&#45;&#45;Comentario -->
+<g id="edge41" class="edge">
+<title>escribe_comentario--Comentario</title>
+<path fill="none" stroke="black" d="M567.37,-116.05C637.66,-105.4 755.32,-89.2 857.3,-83 970.83,-76.1 999.5,-80.32 1113.21,-83 1133.75,-83.48 1156.52,-84.49 1175.67,-85.48"/>
+<text xml:space="preserve" text-anchor="middle" x="834.24" y="-88.97" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- tiene_rol&#45;&#45;Rol -->
+<g id="edge43" class="edge">
+<title>tiene_rol--Rol</title>
+<path fill="none" stroke="black" d="M253.9,-131.95C280.51,-117.97 326.85,-95.21 369.09,-82.2 492.31,-44.26 646.33,-26.32 706.82,-20.36"/>
+<text xml:space="preserve" text-anchor="middle" x="503.88" y="-86.4" font-family="Arial" font-size="14.00">N</text>
+</g>
+<!-- tiene_permiso&#45;&#45;Permiso -->
+<g id="edge45" class="edge">
+<title>tiene_permiso--Permiso</title>
+<path fill="none" stroke="black" d="M1089.46,-18C1124.4,-18 1160.94,-18 1186.32,-18"/>
+<text xml:space="preserve" text-anchor="middle" x="1136.27" y="-22.2" font-family="Arial" font-size="14.00">N</text>
+</g>
+</g>
+</svg>
