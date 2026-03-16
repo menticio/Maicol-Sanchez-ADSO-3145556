@@ -1,0 +1,21 @@
+POST:
+person:
+{
+  "firstName":"Juan",
+  "lastName":"Cortes",
+  "address":"Calle2",
+  "phone":"314422352",
+  "email":"juan@email.com",
+  "status":true
+}
+
+user:
+{
+  "name":"juanghost2045",
+  "password": "juan123",
+  "personId":{
+    "id": 1
+  }
+}
+
+

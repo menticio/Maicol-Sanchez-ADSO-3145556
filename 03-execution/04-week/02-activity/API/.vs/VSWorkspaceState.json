@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\java",
+    "\\app\\src\\main\\java\\com",
+    "\\app\\src\\main\\java\\com\\sena",
+    "\\app\\src\\main\\java\\com\\sena\\app",
+    "\\app\\src\\main\\java\\com\\sena\\app\\IRepository",
+    "\\app\\src\\main\\java\\com\\sena\\app\\Service"
+  ],
+  "SelectedNode": "\\app\\src\\main\\java\\com\\sena\\app\\Controller\\UserController.java",
+  "PreviewInSolutionExplorer": false
+}
